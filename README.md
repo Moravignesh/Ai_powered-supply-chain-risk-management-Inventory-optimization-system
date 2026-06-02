@@ -27,6 +27,11 @@ npm run dev          # ← command is "npm run dev"
 # → http://localhost:3000
 ```
 
+###Demo videos
+
+Frontend demo video : https://drive.google.com/file/d/1lwKpuuoO-TI0JtWRfKG5jUYF9ZY-vLup/view?usp=sharing
+Backend demo video : https://drive.google.com/file/d/1lwKpuuoO-TI0JtWRfKG5jUYF9ZY-vLup/view?usp=sharing
+
 ### 3 — Load Sample Data
 1. Open **http://localhost:3000**
 2. Click **📂 Upload CSV Data** → select `backend/data/sample_data.csv`
