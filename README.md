@@ -29,8 +29,7 @@ npm run dev          # ← command is "npm run dev"
 
 ###Demo videos
 
-Frontend demo video : https://drive.google.com/file/d/1lwKpuuoO-TI0JtWRfKG5jUYF9ZY-vLup/view?usp=sharing
-
+Frontend demo video : https://drive.google.com/file/d/15rx0t75S0H2877l7X86OFrGjjL2ScEnG/view?usp=sharing
 
 Backend demo video : https://drive.google.com/file/d/1lwKpuuoO-TI0JtWRfKG5jUYF9ZY-vLup/view?usp=sharing
 
